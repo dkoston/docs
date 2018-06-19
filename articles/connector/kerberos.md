@@ -5,6 +5,10 @@ topics:
   - connector
   - ad/ldap
   - kerberos
+useCase:
+  - add-login
+  - customize-connections
+  - add-idp
 ---
 # Federating with Active Directory through the AD/LDAP Connector
 

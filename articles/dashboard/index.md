@@ -4,6 +4,7 @@ description: Working with the Dashboard
 classes: topic-page
 topics:
   - dashboard
+useCase: manage-accounts
 ---
 
 <div class="topic-page-header">

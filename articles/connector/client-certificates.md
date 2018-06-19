@@ -4,6 +4,10 @@ topics:
   - connector
   - ad/ldap
   - client-certificates
+useCase:
+  - add-login
+  - customize-connections
+  - add-idp
 ---
 
 # Client Certificate Support

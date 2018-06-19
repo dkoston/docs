@@ -4,6 +4,10 @@ toc: true
 topics:
   - connector
   - ad/ldap
+useCase:
+  - add-login
+  - customize-connections
+  - add-idp
 ---
 # Creating a Test Active Directory Domain Controller
 

@@ -2,6 +2,10 @@
 description: How to install multiple instances of the connector for higher availability.
 topics:
   - connector
+useCase:
+  - add-login
+  - customize-connections
+  - add-idp
 ---
 
 # High availability

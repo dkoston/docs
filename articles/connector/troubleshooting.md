@@ -5,6 +5,10 @@ toc: true
 topics:
   - connector
   - ad/ldap
+useCase:
+  - add-login
+  - customize-connections
+  - add-idp
 ---
 # Troubleshooting the Active Directory/LDAP Connector
 

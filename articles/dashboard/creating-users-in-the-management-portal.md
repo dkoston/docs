@@ -4,6 +4,8 @@ crews: crew-2
 topics:
   - dashboard
   - users
+useCase:
+  - manage-users
 ---
 
 # Create Users using the Dashboard
