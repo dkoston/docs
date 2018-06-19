@@ -4,6 +4,7 @@ topics:
   - connections
   - social
   - dev-keys
+useCase: customize-connections
 ---
 
 # Test Social Connections with Auth0 Developer Keys

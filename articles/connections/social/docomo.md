@@ -9,6 +9,7 @@ topics:
   - connections
   - social
   - docomo
+useCase: customize-connections
 ---
 
 # Connect your app to Docomo dAccount

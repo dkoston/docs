@@ -10,6 +10,7 @@ topics:
   - connections
   - social
   - github
+useCase: customize-connections
 ---
 # Connect your app to GitHub
 

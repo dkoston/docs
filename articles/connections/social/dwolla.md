@@ -9,6 +9,7 @@ topics:
   - connections
   - social
   - dwolla
+useCase: customize-connections
 ---
 
 # Connect your app to Dwolla

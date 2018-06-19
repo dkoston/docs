@@ -9,6 +9,7 @@ topics:
   - connections
   - social
   - planning-center
+useCase: customize-connections
 ---
 
 # Connect your app to Planning Center

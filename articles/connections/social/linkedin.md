@@ -10,6 +10,7 @@ topics:
   - connections
   - social
   - linkedin
+useCase: customize-connections
 ---
 
 # Connect Your App to LinkedIn

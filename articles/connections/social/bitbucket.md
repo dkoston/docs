@@ -9,6 +9,7 @@ topics:
   - connections
   - social
   - bitbucket
+useCase: customize-connections
 ---
 # Connect your app to Bitbucket
 

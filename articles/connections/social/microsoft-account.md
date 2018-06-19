@@ -15,6 +15,7 @@ topics:
   - connections
   - social
   - microsoft
+useCase: customize-connections
 ---
 
 # Connect your app to Microsoft Account

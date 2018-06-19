@@ -9,6 +9,7 @@ topics:
   - connections
   - social
   - baidu
+useCase: customize-connections
 ---
 
 # Connect your app to Baidu

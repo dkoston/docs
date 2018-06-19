@@ -9,6 +9,7 @@ topics:
   - connections
   - social
   - thecity
+useCase: customize-connections
 ---
 
 # Connect your app to The City

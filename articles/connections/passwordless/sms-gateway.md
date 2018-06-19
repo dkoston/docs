@@ -4,6 +4,7 @@ topics:
     - connections
     - passwordless
     - sms
+useCase: customize-connections
 ---
 
 # Send one time codes via your own SMS Gateway

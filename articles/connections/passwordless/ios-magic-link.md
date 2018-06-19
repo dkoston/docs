@@ -7,6 +7,7 @@ topics:
     - email
     - ios
     - magic-links
+useCase: customize-connections
 ---
 
 # Lock iOS v1: Passwordless with Magic Link

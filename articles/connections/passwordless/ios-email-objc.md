@@ -11,6 +11,7 @@ topics:
     - email
     - ios
     - objective-c
+useCase: customize-connections
 ---
 # Using Passwordless on iOS with Email (Objective C)
 

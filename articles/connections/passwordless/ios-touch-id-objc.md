@@ -11,6 +11,7 @@ topics:
     - touchid
     - ios
     - objective-c
+useCase: customize-connections
 ---
 # Using Passwordless on iOS with TouchID
 

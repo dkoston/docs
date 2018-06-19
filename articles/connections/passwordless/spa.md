@@ -4,6 +4,7 @@ topics:
     - connections
     - passwordless
     - spa
+useCase: customize-connections
 ---
 # Using Passwordless Authentication on a SPA
 

@@ -3,6 +3,7 @@ title: Passwordless FAQ
 topics:
     - connections
     - passwordless
+useCase: customize-connections
 ---
 # Passwordless FAQ
 

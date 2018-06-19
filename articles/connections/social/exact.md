@@ -9,6 +9,7 @@ topics:
   - connections
   - social
   - exact
+useCase: customize-connections
 ---
 
 # Connect your app to Exact

@@ -9,6 +9,7 @@ topics:
   - connections
   - social
   - evernote
+useCase: customize-connections
 ---
 
 # Connect your app to Evernote

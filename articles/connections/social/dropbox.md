@@ -9,6 +9,7 @@ topics:
   - connections
   - social
   - dropbox
+useCase: customize-connections
 ---
 
 # Connect your app to Dropbox

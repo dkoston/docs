@@ -3,6 +3,7 @@ title: Passwordless Authentication User Guide
 topics:
     - connections
     - passwordless
+useCase: customize-connections
 ---
 # User Guide: Passwordless
 

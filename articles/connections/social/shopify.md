@@ -9,6 +9,7 @@ topics:
   - connections
   - social
   - shopify
+useCase: customize-connections
 ---
 
 # Connect your app to Shopify

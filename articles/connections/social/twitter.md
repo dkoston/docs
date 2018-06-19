@@ -10,6 +10,7 @@ topics:
   - connections
   - social
   - twitter
+useCase: customize-connections
 ---
 
 # Connect Your App to Twitter

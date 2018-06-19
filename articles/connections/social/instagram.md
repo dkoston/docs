@@ -10,6 +10,7 @@ topics:
   - connections
   - social
   - instagram
+useCase: customize-connections
 ---
 # Connect your app to Instagram
 

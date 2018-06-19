@@ -10,6 +10,7 @@ topics:
   - connections
   - social
   - fitbit
+useCase: customize-connections
 ---
 
 # Connect your app to Fitbit

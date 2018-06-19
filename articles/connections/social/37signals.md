@@ -12,6 +12,7 @@ topics:
   - connections
   - social
   - 37signals
+useCase: customize-connections
 ---
 
 # Connect your app to 37Signals

@@ -11,6 +11,7 @@ topics:
     - sms
     - ios
     - objective-c
+useCase: customize-connections
 ---
 # Using Passwordless on iOS with SMS
 

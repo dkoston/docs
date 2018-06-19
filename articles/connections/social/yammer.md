@@ -9,6 +9,9 @@ topics:
   - connections
   - social
   - yammer
+useCase:
+  - customize-connections
+  - add-idp
 ---
 
 # Connect your app to Yammer
