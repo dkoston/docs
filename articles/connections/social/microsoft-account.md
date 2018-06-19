@@ -15,6 +15,9 @@ topics:
   - connections
   - social
   - microsoft
+useCase:
+    - customize-connections
+    - add-idp
 ---
 
 # Connect your app to Microsoft Account

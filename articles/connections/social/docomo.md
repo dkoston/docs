@@ -9,6 +9,9 @@ topics:
   - connections
   - social
   - docomo
+useCase:
+    - customize-connections
+    - add-idp
 ---
 
 # Connect your app to Docomo dAccount

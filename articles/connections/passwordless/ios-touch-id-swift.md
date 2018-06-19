@@ -17,6 +17,8 @@ topics:
     - touchid
     - ios
     - swift
+useCase:
+    - customize-connections
 ---
 # Using Passwordless on iOS with TouchID
 

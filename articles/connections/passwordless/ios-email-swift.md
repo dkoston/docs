@@ -11,6 +11,8 @@ topics:
     - email
     - ios
     - swift
+useCase:
+    - customize-connections
 ---
 # Using Passwordless on iOS with Email
 

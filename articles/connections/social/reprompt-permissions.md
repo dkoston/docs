@@ -3,6 +3,9 @@ description: How to handle declined authorization permissions and how to re-prom
 topics:
   - connections
   - social
+useCase:
+    - customize-connections
+    - add-idp
 ---
 
 # Handling Declined Authorization Permissions

@@ -10,6 +10,9 @@ topics:
   - connections
   - social
   - github
+useCase:
+    - customize-connections
+    - add-idp
 ---
 # Connect your app to GitHub
 

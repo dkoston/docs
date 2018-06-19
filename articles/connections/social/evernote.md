@@ -9,6 +9,9 @@ topics:
   - connections
   - social
   - evernote
+useCase:
+    - customize-connections
+    - add-idp
 ---
 
 # Connect your app to Evernote

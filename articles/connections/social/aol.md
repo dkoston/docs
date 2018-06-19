@@ -8,6 +8,9 @@ topics:
   - connections
   - social
   - aol
+useCase:
+    - customize-connections
+    - add-idp
 ---
 
 # Connect your app to AOL Reader

@@ -7,6 +7,8 @@ topics:
     - web-apps
     - passwordless
     - email
+useCase:
+    - customize-connections
 ---
 # Passwordless Authentication with a one-time code via e-mail on Regular Web Apps
 

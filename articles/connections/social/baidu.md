@@ -9,6 +9,9 @@ topics:
   - connections
   - social
   - baidu
+useCase:
+    - customize-connections
+    - add-idp
 ---
 
 # Connect your app to Baidu

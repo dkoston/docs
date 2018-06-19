@@ -10,6 +10,9 @@ topics:
   - connections
   - social
   - paypal
+useCase:
+    - customize-connections
+    - add-idp
 ---
 
 # Connect your app to PayPal

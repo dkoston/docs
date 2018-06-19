@@ -9,6 +9,9 @@ topics:
   - connections
   - social
   - weibo
+useCase:
+    - customize-connections
+    - add-idp
 ---
 
 # Connect your app to Weibo

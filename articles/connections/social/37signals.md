@@ -12,6 +12,9 @@ topics:
   - connections
   - social
   - 37signals
+useCase:
+    - customize-connections
+    - add-idp
 ---
 
 # Connect your app to 37Signals

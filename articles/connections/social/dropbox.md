@@ -9,6 +9,9 @@ topics:
   - connections
   - social
   - dropbox
+useCase:
+    - customize-connections
+    - add-idp
 ---
 
 # Connect your app to Dropbox

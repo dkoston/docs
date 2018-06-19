@@ -9,6 +9,9 @@ topics:
   - connections
   - social
   - bitbucket
+useCase:
+    - customize-connections
+    - add-idp
 ---
 # Connect your app to Bitbucket
 

@@ -8,6 +8,9 @@ topics:
   - connections
   - social
   - goodreads
+useCase:
+    - customize-connections
+    - add-idp
 ---
 # Connect your app to Goodreads
 

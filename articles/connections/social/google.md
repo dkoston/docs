@@ -14,6 +14,9 @@ topics:
   - connections
   - social
   - google
+useCase:
+    - customize-connections
+    - add-idp
 ---
 # Connect your App to Google
 

@@ -9,6 +9,9 @@ topics:
   - connections
   - social
   - box
+useCase:
+    - customize-connections
+    - add-idp
 ---
 
 # Connect your app to Box

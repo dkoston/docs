@@ -10,6 +10,9 @@ topics:
   - connections
   - social
   - fitbit
+useCase:
+    - customize-connections
+    - add-idp
 ---
 
 # Connect your app to Fitbit

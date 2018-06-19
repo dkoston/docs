@@ -5,6 +5,8 @@ topics:
     - passwordless
     - android
     - email
+useCase:
+    - customize-connections
 ---
 # Authenticate users with a one-time code via e-mail
 

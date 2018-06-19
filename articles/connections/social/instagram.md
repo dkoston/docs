@@ -10,6 +10,9 @@ topics:
   - connections
   - social
   - instagram
+useCase:
+    - customize-connections
+    - add-idp
 ---
 # Connect your app to Instagram
 

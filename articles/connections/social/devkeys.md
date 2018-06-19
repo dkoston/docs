@@ -4,6 +4,9 @@ topics:
   - connections
   - social
   - dev-keys
+useCase:
+    - customize-connections
+    - add-idp
 ---
 
 # Test Social Connections with Auth0 Developer Keys

@@ -10,6 +10,9 @@ topics:
   - connections
   - social
   - yahoo
+useCase:
+    - customize-connections
+    - add-idp
 ---
 
 # Connect your app to Yahoo!

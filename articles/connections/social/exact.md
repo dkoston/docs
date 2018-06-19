@@ -9,6 +9,9 @@ topics:
   - connections
   - social
   - exact
+useCase:
+    - customize-connections
+    - add-idp
 ---
 
 # Connect your app to Exact

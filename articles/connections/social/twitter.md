@@ -10,6 +10,9 @@ topics:
   - connections
   - social
   - twitter
+useCase:
+    - customize-connections
+    - add-idp
 ---
 
 # Connect Your App to Twitter

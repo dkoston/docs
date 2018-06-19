@@ -7,6 +7,8 @@ topics:
     - sms
     - mobile
     - email
+useCase:
+    - customize-connections
 ---
 # Passwordless Authentication on Android
 

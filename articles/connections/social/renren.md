@@ -9,6 +9,9 @@ topics:
   - connections
   - social
   - renren
+useCase:
+    - customize-connections
+    - add-idp
 ---
 
 # Connect your app to RenRen

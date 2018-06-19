@@ -10,6 +10,9 @@ topics:
   - connections
   - social
   - facebook
+useCase:
+    - customize-connections
+    - add-idp
 ---
 # Connect your app to Facebook
 

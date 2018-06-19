@@ -9,6 +9,9 @@ topics:
   - connections
   - social
   - shopify
+useCase:
+    - customize-connections
+    - add-idp
 ---
 
 # Connect your app to Shopify

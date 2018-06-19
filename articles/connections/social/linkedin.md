@@ -10,6 +10,9 @@ topics:
   - connections
   - social
   - linkedin
+useCase:
+    - customize-connections
+    - add-idp
 ---
 
 # Connect Your App to LinkedIn

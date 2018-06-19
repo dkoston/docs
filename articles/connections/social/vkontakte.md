@@ -9,6 +9,9 @@ topics:
   - connections
   - social
   - vkontakte
+useCase:
+    - customize-connections
+    - add-idp
 ---
 
 # Connect your app to vKontakte

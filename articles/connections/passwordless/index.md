@@ -4,6 +4,8 @@ url: /connections/passwordless
 topics:
     - connections
     - passwordless
+useCase:
+    - customize-connections
 ---
 # Using Passwordless Authentication
 
