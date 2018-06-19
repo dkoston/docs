@@ -7,7 +7,6 @@ toc: true
 topics:
   - connections
   - social
-useCase: customize-connections
 ---
 # Authenticate using OpenIDConnect to another Auth0 Tenant
 

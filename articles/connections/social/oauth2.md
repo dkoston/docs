@@ -9,7 +9,6 @@ topics:
   - connections
   - social
   - oauth2
-useCase: customize-connections
 ---
 # Add a generic OAuth2 Authorization Server to Auth0
 

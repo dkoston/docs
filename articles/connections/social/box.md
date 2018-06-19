@@ -9,7 +9,6 @@ topics:
   - connections
   - social
   - box
-useCase: customize-connections
 ---
 
 # Connect your app to Box

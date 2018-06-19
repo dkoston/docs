@@ -10,7 +10,6 @@ topics:
   - connections
   - social
   - soundcloud
-useCase: customize-connections
 ---
 
 # Connect your app to SoundCloud

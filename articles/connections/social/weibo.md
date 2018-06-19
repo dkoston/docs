@@ -9,7 +9,6 @@ topics:
   - connections
   - social
   - weibo
-useCase: customize-connections
 ---
 
 # Connect your app to Weibo

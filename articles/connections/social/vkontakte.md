@@ -9,7 +9,6 @@ topics:
   - connections
   - social
   - vkontakte
-useCase: customize-connections
 ---
 
 # Connect your app to vKontakte

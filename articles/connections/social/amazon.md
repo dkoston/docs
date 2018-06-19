@@ -13,7 +13,6 @@ topics:
   - connections
   - social
   - amazon
-useCase: customize-connections
 ---
 
 # Connect your app to Amazon

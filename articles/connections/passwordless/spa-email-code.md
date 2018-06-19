@@ -6,7 +6,6 @@ topics:
     - passwordless
     - spa
     - email
-useCase: customize-connections
 ---
 # Using Passwordless Authentication in SPA with Email
 

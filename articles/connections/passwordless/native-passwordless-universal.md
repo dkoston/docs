@@ -5,7 +5,6 @@ topics:
     - connections
     - passwordless
     - native
-useCase: customize-connections
 ---
 # Passwordless Authentication in Native Applications with Universal Login
 

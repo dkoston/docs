@@ -4,7 +4,6 @@ topics:
     - connections
     - web-apps
     - passwordless
-useCase: customize-connections
 ---
 # Using Passwordless Authentication on a Regular Web App
 

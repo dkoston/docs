@@ -8,7 +8,6 @@ topics:
     - connections
     - passwordless
     - email
-useCase: customize-connections
 ---
 
 # Authenticate users with using Passwordless Authentication via Email

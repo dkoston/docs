@@ -10,7 +10,6 @@ topics:
     - connections
     - passwordless
     - sms
-useCase: customize-connections
 ---
 
 # Authenticate users with a one-time code via SMS

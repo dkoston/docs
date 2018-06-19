@@ -14,7 +14,6 @@ topics:
   - connections
   - social
   - google
-useCase: customize-connections
 ---
 # Connect your App to Google
 

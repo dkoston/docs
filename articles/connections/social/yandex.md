@@ -9,9 +9,6 @@ topics:
   - connections
   - social
   - yandex
-useCase:
-  - customize-connections
-  - add-idp
 ---
 
 # Connect your app to Yandex

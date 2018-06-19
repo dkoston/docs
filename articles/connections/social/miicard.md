@@ -8,7 +8,6 @@ topics:
   - connections
   - social
   - miicard
-useCase: customize-connections
 ---
 
 # Connect your app to miiCard

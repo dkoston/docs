@@ -9,7 +9,6 @@ topics:
   - connections
   - social
   - renren
-useCase: customize-connections
 ---
 
 # Connect your app to RenRen

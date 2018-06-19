@@ -4,7 +4,6 @@ topics:
     - connections
     - passwordless
     - ios
-useCase: customize-connections
 ---
 # Using Passwordless on iOS
 

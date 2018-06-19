@@ -8,7 +8,6 @@ topics:
   - connections
   - social
   - aol
-useCase: customize-connections
 ---
 
 # Connect your app to AOL Reader

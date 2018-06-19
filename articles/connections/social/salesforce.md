@@ -10,7 +10,6 @@ topics:
   - connections
   - social
   - salesforce
-useCase: customize-connections
 ---
 
 # Connect your app to Salesforce

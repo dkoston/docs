@@ -8,7 +8,6 @@ topics:
   - connections
   - social
   - goodreads
-useCase: customize-connections
 ---
 # Connect your app to Goodreads
 

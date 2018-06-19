@@ -10,7 +10,6 @@ topics:
   - connections
   - social
   - facebook
-useCase: customize-connections
 ---
 # Connect your app to Facebook
 
